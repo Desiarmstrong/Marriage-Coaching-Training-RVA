@@ -19,7 +19,7 @@ h2{
 .contact{
 	text-align: center;
 	font-size: 200%;
-	float:center;
+	align-content: center;
 }
 .services{
 	text-align: center;
