@@ -16,11 +16,13 @@ h2{
 .three{
 
 }
+a{
+	color:red;
+}
 .contact{
 	text-align: center;
 	font-size: 200%;
 	align-content: center;
-	color:red;
 }
 .services{
 	text-align: center;
