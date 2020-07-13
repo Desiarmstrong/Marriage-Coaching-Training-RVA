@@ -28,6 +28,7 @@ h2{
 }
 * {
   box-sizing: border-box;
+	width:80%;
 }
 
 input[type=text], select, textarea {
