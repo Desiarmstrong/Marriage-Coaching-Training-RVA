@@ -1,5 +1,5 @@
 @charset "utf-8";
-/* CSS Document *
+/* CSS Document */
 
 body{
   background-color:#D4D8FB;
@@ -7,22 +7,22 @@ body{
 }
 h1{
   text-align: center;
-	font-size: 600%;
+	font-size: 700%;
 	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
 }
 h2{
  font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 }
 .three{
+
 }
 .contact{
 	text-align: center;
 	font-size: 200%;
-	float:center;
 }
 .services{
 	text-align: center;
-	font-size: 200%;
-	width:30%;
-	float:left;
+	font-size: 400%;
+	float: left;
 }
