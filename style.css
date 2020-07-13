@@ -24,4 +24,5 @@ h2{
 .services{
 	text-align: center;
 	font-size: 400%;
+	float:left;
 }
